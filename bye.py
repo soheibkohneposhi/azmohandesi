@@ -1,4 +1,4 @@
 def bye():
-	print("bye")
+	print("bye sadegh")
 
 bye()
